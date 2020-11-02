@@ -8,13 +8,13 @@ assignees: ''
 ---
 
 **What is the bug, be thorough.**
-[answer here *remove this line to answer*]
+[My escalade has the wrong license plate on it i have not changed the plate. the plate on my escalade is 7BTR396 wen the actual plate through the F6 menu is 87dgi911]
 
 **How can we reproduce this bug?**
-[answer here *remove this line to answer*]
+[spawning in my escalade]
 
 **Images**
-[answer here if you have images *remove this line to answer*]
+[yes of my broken plate]
 
 **Other info**
-[any other info? *remove this line to answer*]
+[only happened to my escalade ]
